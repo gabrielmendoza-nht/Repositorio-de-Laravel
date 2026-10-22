@@ -1,9 +1,11 @@
 <div align="center">
-# 🔐 Laboratorio #2 – Implementación del Login en Laravel
+# – Implementación del Login en Laravel
  
-**Universidad Tecnológica de Panamá**
-Facultad de Ingeniería de Sistemas Computacionales · Campus Víctor Levis Sasso
-**Desarrollo Web** · II Semestre 2026
+**Universidad Tecnológica de Panamá**:
+**Nombre:** Gabriel Mendoza
+**Correo:** gabriel.mendoza5@utp.ac.pa
+**Curso:** Desarrollo Web 2
+**Instructor del Laboratorio:** Irina Fong
  
 ![Laravel](https://img.shields.io/badge/Laravel-13.37-FF2D20?logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?logo=php&logoColor=white)
@@ -302,14 +304,5 @@ Se escribió mal el comando (`php artisian config::clear`) y no se ejecutó.
  
 ---
  
-## 9. 👤 Información del estudiante
- 
-<div align="center">
-Este laboratorio ha sido desarrollado por el estudiante de la **Universidad Tecnológica de Panamá**:
- 
-**Nombre:** Gabriel Mendoza
-**Correo:** gabriel.mendoza5@utp.ac.pa
-**Curso:** Desarrollo Web 2
-**Instructor del Laboratorio:** Irina Fong
  
 </div>
