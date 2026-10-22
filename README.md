@@ -1,6 +1,7 @@
 <div align="center">
 Universidad Tecnológica de Panamá
-    Instalación de Laravel
+
+Instalación de Laravel
 
 **Nombre:** Gabriel Mendoza
 
