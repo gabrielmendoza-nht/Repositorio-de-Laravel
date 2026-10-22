@@ -9,7 +9,9 @@
 
 **Curso:** Desarrollo Web 2
 
-**Instructor del Laboratorio:** Irina Fong
+**22 de octubre de 2026**
+
+**Profesora:** Irina Fong
  
 ![Laravel](https://img.shields.io/badge/Laravel-13.37-FF2D20?logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?logo=php&logoColor=white)
@@ -297,9 +299,6 @@ Se escribió mal el comando (`php artisian config::clear`) y no se ejecutó.
 6. WampServer. *Sitio oficial*. <https://www.wampserver.com/en/>
 ---
  
-## 8. 📅 Fecha de ejecución
- 
-**22 de octubre de 2026**
  
 ---
  
