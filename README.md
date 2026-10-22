@@ -1,5 +1,5 @@
 <div align="center">
-# – Implementación del Login en Laravel
+#  Instalación del Laravel
  
 **Universidad Tecnológica de Panamá**:
 **Nombre:** Gabriel Mendoza
@@ -14,7 +14,7 @@
 ![WampServer](https://img.shields.io/badge/WampServer-Windows-orange)
  
 </div>
----
+
  
 ## 📑 Tabla de contenido
  
