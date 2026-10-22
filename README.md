@@ -3,7 +3,8 @@
 # 🔐 Laboratorio #2 – Implementación del Login en Laravel
 
 **Universidad Tecnológica de Panamá**
-Facultad de Ingeniería de Sistemas Computacionales · Campus Víctor Levis Sasso
+nombre Gabriel Mendoza
+Facultad de Ingeniería de Sistemas Computacionales
 **Desarrollo Web** · II Semestre 2026
 
 ![Laravel](https://img.shields.io/badge/Laravel-13.37-FF2D20?logo=laravel&logoColor=white)
