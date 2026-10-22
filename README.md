@@ -1,5 +1,5 @@
 <div align="center">
-  **Instalación de Laravel**
+    Instalación de Laravel
  
 **Universidad Tecnológica de Panamá**:
 
