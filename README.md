@@ -2,46 +2,40 @@
 
 <table>
   <tr>
-    <td align="center"><img src="logo-utp.png" alt="Logo UTP" width="120"/></td>
-    <td align="center">
-      <b>UNIVERSIDAD TECNOLÓGICA DE PANAMÁ</b><br/>
-      Facultad de Ingeniería de Sistemas Computacionales
-      Instalación de Laravel
-
-**Nombre:** Gabriel Mendoza
-
-**Correo:** gabriel.mendoza5@utp.ac.pa
-
-**Curso:** Desarrollo Web 2
-
-**22 de octubre de 2026**
-
-**Profesora:** Irina Fong<br/>
+    <td align="center" width="150">
+      <img src="logo-utp.png" alt="Logo UTP" width="120"/>
     </td>
-    <td align="center"><img src="logo-fisc.png" alt="Logo FISC" width="120"/></td>
+    <td align="center">
+      <h3>UNIVERSIDAD TECNOLÓGICA DE PANAMÁ</h3>
+      <b>Facultad de Ingeniería de Sistemas Computacionales</b><br/>
+      Campus Víctor Levis Sasso<br/><br/>
+      <h2>🔐 Instalación de Laravel</h2>
+      <i>Laboratorio #2 – Implementación del Login</i>
+    </td>
+    <td align="center" width="150">
+      <img src="logo-fisc.png" alt="Logo FISC" width="120"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+      <b>Estudiante:</b> Gabriel Mendoza<br/>
+      <b>Correo:</b> gabriel.mendoza5@utp.ac.pa<br/>
+      <b>Curso:</b> Desarrollo Web 2<br/>
+      <b>Profesora:</b> Irina Fong<br/>
+      <b>Fecha:</b> 22 de octubre de 2026
+    </td>
   </tr>
 </table>
 
-</div>
+<br/>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Logo de Laravel" width="110"/>
 
-<div align="center">
+<br/><br/>
 
-
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Logo de Laravel" width="200"/>
-
-</div>
- 
 ![Laravel](https://img.shields.io/badge/Laravel-13.37-FF2D20?logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-phpMyAdmin-4479A1?logo=mysql&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-8.3-646CFF?logo=vite&logoColor=white)
-![WampServer](https://img.shields.io/badge/WampServer-Windows-orange)
- 
-</div>
-
+![PHP](https://img.shields.io/badge/PHP-8.3-777BB4?logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8.4-4479A1?logo=mysql&log
 
  
 ## 📑 Tabla de contenido
