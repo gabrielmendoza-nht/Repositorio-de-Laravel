@@ -1,5 +1,21 @@
 <div align="center">
 
+<table>
+  <tr>
+    <td align="center"><img src="logo-utp.png" alt="Logo UTP" width="120"/></td>
+    <td align="center">
+      <b>UNIVERSIDAD TECNOLÓGICA DE PANAMÁ</b><br/>
+      Facultad de Ingeniería de Sistemas Computacionales<br/>
+      Campus Víctor Levis Sasso
+    </td>
+    <td align="center"><img src="logo-fisc.png" alt="Logo FISC" width="120"/></td>
+  </tr>
+</table>
+
+</div>
+
+<div align="center">
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Logo de Laravel" width="200"/>
 
 </div>
