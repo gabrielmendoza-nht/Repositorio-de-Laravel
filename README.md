@@ -88,7 +88,7 @@ laravel new lab_laravel
 
 Durante el asistente se eligió: *starter kit* **none** y *frontend stack* **Blade**.
 
-![Creación del proyecto](imagenes/01_laravel_new.png)
+![Creación del proyecto](Captura%20de%20pantalla%202026-10-16%20083220.png)
 
 ### 3.2 Configurar el archivo `.env`
 
@@ -112,8 +112,8 @@ DB_USERNAME=root
 DB_PASSWORD=
 ```
 
-![.env aplicación](imagenes/06_env_app.png)
-![.env base de datos](imagenes/05_env_base_de_datos.png)
+![.env aplicación](Captura%20de%20pantalla%202026-10-16%20114502.png)
+![.env base de datos](Captura%20de%20pantalla%202026-10-16%20114457.png)
 
 ### 3.3 Ajuste en `AppServiceProvider.php`
 
@@ -128,7 +128,7 @@ public function boot(): void
 }
 ```
 
-![AppServiceProvider](imagenes/07_app_service_provider.png)
+![AppServiceProvider](Captura%20de%20pantalla%202026-10-16%20130906.png)
 
 ### 3.4 Limpiar caché y actualizar dependencias
 
@@ -138,8 +138,8 @@ php artisan config:cache
 composer update
 ```
 
-![config:clear y composer update](imagenes/03_config_clear_composer_update.png)
-![config:cache](imagenes/08_config_cache.png)
+![config:clear y composer update](Captura%20de%20pantalla%202026-10-16%20114435.png)
+![config:cache](Captura%20de%20pantalla%202026-10-16%20131600.png)
 
 ### 3.5 Migraciones
 
@@ -149,7 +149,7 @@ php artisan migrate
 
 Laravel detectó que la base de datos `laravel` no existía y ofreció crearla (se respondió `yes`).
 
-![migrate crea la BD](imagenes/02_migrate_crear_bd.png)
+![migrate crea la BD](Captura%20de%20pantalla%202026-10-16%20114415.png)
 
 ### 3.6 Dependencias de frontend (NPM + Vite)
 
@@ -160,8 +160,8 @@ npm run dev
 
 El servidor de Vite queda disponible en `http://localhost:5173/`.
 
-![npm install y npm run dev](imagenes/09_npm_install_run_dev.png)
-![Vite en cmd](imagenes/10_vite_en_cmd.png)
+![npm install y npm run dev](Captura%20de%20pantalla%202026-10-16%20131850.png)
+![Vite en cmd](Captura%20de%20pantalla%202026-10-16%20132849.png)
 
 ### 3.7 Resumen del flujo completo
 
@@ -221,7 +221,7 @@ php artisan migrate         # ejecutar migraciones
 php artisan migrate:fresh   # reiniciar y recrear todas las tablas
 ```
 
-![migrate:fresh](imagenes/12_migrate_fresh.png)
+![migrate:fresh](Captura%20de%20pantalla%202026-10-16%20133045.png)
 
 ### 💾 Respaldo (backup) de la base de datos
 
@@ -241,7 +241,11 @@ database/backup/laravel.sql
 
 Vista obtenida en el navegador al ejecutar el proyecto (Laravel v13.37.0):
 
-![Resultado](imagenes/15_resultado_dashboard.png)
+![Resultado](Captura%20de%20pantalla%202026-10-16%20135823.png)
+
+Formulario de registro (Bootstrap) funcionando en `http://127.0.0.1:8000/register`:
+
+![Registro de usuario](Captura%20de%20pantalla%202026-10-16%20135741.png)
 
 ---
 
@@ -251,8 +255,8 @@ Vista obtenida en el navegador al ejecutar el proyecto (Laravel v13.37.0):
 
 Al correr `php artisan migrate`, la migración `create_users_table` falló con el error *"Base table or view already exists: 1050 Table 'users' already exists"*, porque la tabla ya había sido creada en un intento anterior. Más adelante apareció otro `QueryException` durante las migraciones.
 
-![Error 1](imagenes/11_error_query_exception_users.png)
-![Error 2](imagenes/13_error_query_exception_2.png)
+![Error 1](Captura%20de%20pantalla%202026-10-16%20133020.png)
+![Error 2](Captura%20de%20pantalla%202026-10-16%20133052.png)
 
 **Solución:** se reinició la base de datos con:
 
@@ -266,7 +270,7 @@ Este comando elimina todas las tablas y vuelve a ejecutar todas las migraciones 
 
 Al ejecutar `npm run dev` apareció el error de que `vite` no se reconocía, lo que indica que las dependencias de Node no estaban instaladas correctamente.
 
-![Error Vite](imagenes/14_error_vite_no_reconocido.png)
+![Error Vite](Captura%20de%20pantalla%202026-10-16%20134525.png)
 
 **Solución:** ejecutar `npm install` dentro de la carpeta del proyecto y luego `npm run dev` nuevamente.
 
@@ -274,7 +278,7 @@ Al ejecutar `npm run dev` apareció el error de que `vite` no se reconocía, lo 
 
 Se escribió mal el comando (`php artisian config::clear`) y no se ejecutó.
 
-![Error tipográfico](imagenes/04_error_tipografico_artisan.png)
+![Error tipográfico](Captura%20de%20pantalla%202026-10-16%20114449.png)
 
 **Solución:** corregirlo a `php artisan config:clear`.
 
@@ -304,7 +308,7 @@ Se escribió mal el comando (`php artisian config::clear`) y no se ejecutó.
 Este laboratorio ha sido desarrollado por el estudiante de la **Universidad Tecnológica de Panamá**:
 
 **Nombre:** Gabriel Mendoza
-**Correo:** `[POR COMPLETAR]`
+**Correo:** gabriel.mendoza5@utp.ac.pa
 **Curso:** Desarrollo Web 2
 **Instructor del Laboratorio:** Irina Fong
 
