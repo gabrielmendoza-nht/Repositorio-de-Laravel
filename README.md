@@ -35,7 +35,9 @@
 
 ![Laravel](https://img.shields.io/badge/Laravel-13.37-FF2D20?logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-8.3-777BB4?logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-8.4-4479A1?logo=mysql&log)
+![MySQL](https://img.shields.io/badge/MySQL-8.4-4479A1?logo=mysql&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-8.3-646CFF?logo=vite&logoColor=white)
+![WampServer](https://img.shields.io/badge/WampServer-Windows-orange)
 
  
 ## 📑 Tabla de contenido
