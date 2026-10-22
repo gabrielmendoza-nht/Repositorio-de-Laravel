@@ -1,4 +1,9 @@
 <div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Logo de Laravel" width="200"/>
+
+</div>
+<div align="center">
 Universidad Tecnológica de Panamá
 
 
