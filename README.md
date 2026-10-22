@@ -14,11 +14,7 @@
 
 </div>
 
-<div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Logo de Laravel" width="200"/>
-
-</div>
 <div align="center">
 Universidad Tecnológica de Panamá
 
@@ -34,6 +30,12 @@ Instalación de Laravel
 **22 de octubre de 2026**
 
 **Profesora:** Irina Fong
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Logo de Laravel" width="200"/>
+
+</div>
  
 ![Laravel](https://img.shields.io/badge/Laravel-13.37-FF2D20?logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?logo=php&logoColor=white)
@@ -42,6 +44,7 @@ Instalación de Laravel
 ![WampServer](https://img.shields.io/badge/WampServer-Windows-orange)
  
 </div>
+
 
  
 ## 📑 Tabla de contenido
