@@ -1,5 +1,5 @@
 <div align="center">
-#  Instalación del Laravel
+  **Instalación de Laravel**
  
 **Universidad Tecnológica de Panamá**:
 **Nombre:** Gabriel Mendoza
