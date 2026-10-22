@@ -2,9 +2,13 @@
   **Instalación de Laravel**
  
 **Universidad Tecnológica de Panamá**:
+
 **Nombre:** Gabriel Mendoza
+
 **Correo:** gabriel.mendoza5@utp.ac.pa
+
 **Curso:** Desarrollo Web 2
+
 **Instructor del Laboratorio:** Irina Fong
  
 ![Laravel](https://img.shields.io/badge/Laravel-13.37-FF2D20?logo=laravel&logoColor=white)
