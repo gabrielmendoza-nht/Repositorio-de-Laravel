@@ -1,7 +1,7 @@
 <div align="center">
+**Universidad Tecnológica de Panamá**
+        Asignación
     Instalación de Laravel
- 
-**Universidad Tecnológica de Panamá**:
 
 **Nombre:** Gabriel Mendoza
 
