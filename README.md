@@ -5,7 +5,9 @@
 **Universidad Tecnológica de Panamá**
 nombre Gabriel Mendoza
 Facultad de Ingeniería de Sistemas Computacionales
-**Desarrollo Web** · II Semestre 2026
+
+**Desarrollo Web** · 
+II Semestre 2026
 
 ![Laravel](https://img.shields.io/badge/Laravel-13.37-FF2D20?logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?logo=php&logoColor=white)
