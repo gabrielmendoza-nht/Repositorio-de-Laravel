@@ -5,21 +5,8 @@
     <td align="center"><img src="logo-utp.png" alt="Logo UTP" width="120"/></td>
     <td align="center">
       <b>UNIVERSIDAD TECNOLÓGICA DE PANAMÁ</b><br/>
-      Facultad de Ingeniería de Sistemas Computacionales<br/>
-      Campus Víctor Levis Sasso
-    </td>
-    <td align="center"><img src="logo-fisc.png" alt="Logo FISC" width="120"/></td>
-  </tr>
-</table>
-
-</div>
-
-
-<div align="center">
-Universidad Tecnológica de Panamá
-
-
-Instalación de Laravel
+      Facultad de Ingeniería de Sistemas Computacionales
+      Instalación de Laravel
 
 **Nombre:** Gabriel Mendoza
 
@@ -29,7 +16,17 @@ Instalación de Laravel
 
 **22 de octubre de 2026**
 
-**Profesora:** Irina Fong
+**Profesora:** Irina Fong<br/>
+    </td>
+    <td align="center"><img src="logo-fisc.png" alt="Logo FISC" width="120"/></td>
+  </tr>
+</table>
+
+</div>
+
+
+<div align="center">
+
 
 <div align="center">
 
