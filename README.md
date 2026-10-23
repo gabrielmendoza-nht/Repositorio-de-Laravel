@@ -179,7 +179,9 @@ Laravel detectó que la base de datos `laravel` no existía y ofreció crearla (
 
  Usuario registrado, guardado en la tabla `users` de la base de datos (la contraseña se almacena cifrada con bcrypt):
 
-![Tabla users en phpMyAdmin](Captura%20de%20pantalla%202026-10-22%20XXXXXX.png)
+![Tabla users en phpMyAdmin](Captura%20de%20pantalla%202026-10-22%20194650.png)
+
+
 
 ### 3.6 Dependencias de frontend (NPM + Vite)
  
