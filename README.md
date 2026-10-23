@@ -87,7 +87,7 @@ php artisan migrate:fresh    # elimina todas las tablas y las vuelve a crear
 |:---:|---|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="32"/> | **Sistema operativo:** Windows |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="32"/> | **PHP:** 8.3.28 |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="32"/> | **Composer:** última versión estable `[ composer -V]` |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="32"/> | **Composer:** 2.10.3 (última versión estable) |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="32"/> | **Laravel Installer 5.32.0** · **Laravel Framework 13.37.0** (`laravel new`) |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="32"/> | **Servidor web:** Apache 2.4.65 (incluido en WampServer) |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32"/> | **Base de datos:** MySQL 8.4.7 administrada con phpMyAdmin 5.2.3 (usuario `root`) |
@@ -95,6 +95,10 @@ php artisan migrate:fresh    # elimina todas las tablas y las vuelve a crear
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32"/> | **Editor de código:** Visual Studio Code |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="32"/> | **NPM:**  (`npm install` y `npm run dev` con **Vite 8.3.4**) |
  
+Versión de Composer instalada:
+
+![Versión de Composer](Captura%20de%20pantalla%202026-10-22%20190443.png)
+
 ---
  
 ## 3. ⚙️ Instalación y flujo de comandos
@@ -201,18 +205,15 @@ npm run dev
 ```
  
 ### 3.8 Paquete de autenticación
- 
->  se usó laravel/ui
->
->
-> bash
-> Laravel UI
-> composer require laravel/ui
-> php artisan ui bootstrap --auth
-> npm install && npm run dev
->
 
- 
+Se utilizó **Laravel UI** con Bootstrap para generar el login y el registro:
+
+```bash
+composer require laravel/ui
+php artisan ui bootstrap --auth
+npm install && npm run dev
+```
+
 ---
  
 ## 4. 🗄️ Base de datos
@@ -248,16 +249,15 @@ Base de datos `laravel` y sus tablas en **phpMyAdmin**:
 ![phpMyAdmin](Captura%20de%20pantalla%202026-10-22%20182829.png)
  
 ### 💾 Respaldo (backup) de la base de datos
- 
-Exportar desde **phpMyAdmin**: seleccionar la base `laravel` → pestaña **Exportar** → método *Rápido*, formato *SQL* → **Exportar**.
- 
-Guardado el archivo en el repositorio:
- 
 
-database/backup/laravel.sql
+Se exportó desde **phpMyAdmin**: base `laravel` → pestaña **Exportar** → método *Rápido*, formato *SQL* → **Exportar**.
 
- 
- 
+![Exportar base de datos](Captura%20de%20pantalla%202026-10-22%20190112.png)
+
+El respaldo está guardado en este repositorio: [`backup_laravel.sql`](backup_laravel.sql)
+
+Para restaurarlo: crear la base `laravel` en phpMyAdmin → pestaña **Importar** → seleccionar `backup_laravel.sql`.
+
 ---
  
 ## 5. 🖼️ Resultado del laboratorio
