@@ -176,7 +176,11 @@ php artisan migrate
 Laravel detectó que la base de datos `laravel` no existía y ofreció crearla (se respondió `yes`).
  
 ![migrate crea la BD](Captura%20de%20pantalla%202026-10-16%20114415.png)
- 
+
+ Usuario registrado, guardado en la tabla `users` de la base de datos (la contraseña se almacena cifrada con bcrypt):
+
+![Tabla users en phpMyAdmin](Captura%20de%20pantalla%202026-10-22%20XXXXXX.png)
+
 ### 3.6 Dependencias de frontend (NPM + Vite)
  
 ```bash
