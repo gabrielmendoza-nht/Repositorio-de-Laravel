@@ -332,12 +332,11 @@ Este laboratorio ha sido desarrollado por el estudiante de la **Universidad Tecn
 
 **Nombre:** Gabriel Mendoza<br/>
 **Correo:** gabriel.mendoza5@utp.ac.pa<br/>
-**Curso:** Desarrollo Web 2<br/>
-**Instructor del Laboratorio:** Irina Fong
+**Materia:** Desarrollo Web 2<br/>
+**Profesora** Irina Fong
 
 </div>
  
----
  
  
 </div>
