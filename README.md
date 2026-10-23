@@ -316,7 +316,26 @@ Se escribió mal el comando (`php artisian config::clear`) y no se ejecutó.
 5. Vite. *Guía oficial*. <https://vite.dev/guide/>
 6. WampServer. *Sitio oficial*. <https://www.wampserver.com/en/>
 ---
- 
+ ---
+
+## 8. 📅 Fecha de ejecución
+
+**22 de octubre de 2026**
+
+---
+
+## 9. 👤 Información del estudiante
+
+<div align="center">
+
+Este laboratorio ha sido desarrollado por el estudiante de la **Universidad Tecnológica de Panamá**:
+
+**Nombre:** Gabriel Mendoza<br/>
+**Correo:** gabriel.mendoza5@utp.ac.pa<br/>
+**Curso:** Desarrollo Web 2<br/>
+**Instructor del Laboratorio:** Irina Fong
+
+</div>
  
 ---
  
