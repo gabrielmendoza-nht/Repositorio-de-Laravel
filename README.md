@@ -177,11 +177,6 @@ Laravel detectó que la base de datos `laravel` no existía y ofreció crearla (
  
 ![migrate crea la BD](Captura%20de%20pantalla%202026-10-16%20114415.png)
 
- Usuario registrado, guardado en la tabla `users` de la base de datos (la contraseña se almacena cifrada con bcrypt):
-
-![Tabla users en phpMyAdmin](Captura%20de%20pantalla%202026-10-22%20194650.png)
-
-
 
 ### 3.6 Dependencias de frontend (NPM + Vite)
  
@@ -275,6 +270,10 @@ Vista obtenida en el navegador al ejecutar el proyecto (Laravel v13.37.0):
 Formulario de registro (Bootstrap) funcionando en `http://127.0.0.1:8000/register`:
  
 ![Registro de usuario](Captura%20de%20pantalla%202026-10-16%20135741.png)
+
+ Usuario registrado, guardado en la tabla `users` de la base de datos (la contraseña se almacena cifrada con bcrypt):
+
+![Tabla users en phpMyAdmin](Captura%20de%20pantalla%202026-10-22%20194650.png)
  
 ---
  
